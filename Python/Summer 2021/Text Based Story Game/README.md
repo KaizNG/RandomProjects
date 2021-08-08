@@ -2,6 +2,9 @@
 This is a text-based story game based on a mini-story I wrote. As you progress, you are given choices that you can make that will lead you down different paths.
 
 ## 
+*CURRENTLY ON HIATUS*
+
+## 
 [ If you get a dead page when clicking the link, it's because it's in a top-secret repository c: ]
 
 ## Installation
