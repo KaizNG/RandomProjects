@@ -17,7 +17,7 @@ As you progress, you are given choices that you can make that will lead you down
 [license]: https://choosealicense.com/licenses/mit/
 
 [stopped]: https://img.shields.io/badge/status-Not%20Updating-red.svg
-[hiatus]: https://img.shields.io/badge/status-Hiatus-orange.svg
+[hiatus]: https://img.shields.io/badge/Status-On%20Hiatus-orange.svg
 [updating]: https://img.shields.io/badge/status-Updating-009b31.svg
 
 [changelog-img]: https://img.shields.io/badge/changelog-545454.svg
