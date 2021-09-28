@@ -13,8 +13,8 @@ As you progress, you are given choices that you can make that will lead you down
 
 [Text Based Story Game]: https://github.com/KaizNG/TextBasedGame
 
-[license-img]: https://img.shields.io/github/license/KaizNG/TextBasedGame
-[license]: https://github.com/KaizNG/TextBasedGame/blob/main/LICENSE
+[license-img]: https://img.shields.io/github/license/KaizNG/Pokemon-IV-Percentage
+[license]: https://choosealicense.com/licenses/mit/
 
 [stopped]: https://img.shields.io/badge/status-Not%20Updating-red.svg
 [hiatus]: https://img.shields.io/badge/status-Hiatus-orange.svg
