@@ -14,6 +14,7 @@ OnPeakDiscount = 0.05
 SeniorDiscount = 0.11
 
 TAX = 0.13
+elecCost = -1
 
 def inputRestriction():
   while True:
@@ -34,11 +35,13 @@ def inputRestriction():
 def seniorCheck():
   print("Is owner senior? (Y,y,N,n): ")
   r = input()
-  if r == "y":
-    seniorCheck.areYouSenior = 1
+  if r == "y" or r == "Y":
+    y = r.lower()
+    seniorCheck.areYouSenior = y
 
-  elif r == "n":
-    seniorCheck.areYouSenior = 0
+  elif r == "n" or r == "N":
+    y = r.lower()
+    seniorCheck.areYouSenior = y
 
   else:
     print("Please try again.")
