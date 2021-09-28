@@ -11,22 +11,17 @@ As you progress, you are given choices that you can make that will lead you down
 *[This project is currently a work in progress and is not available to the public]*
 
 
-[Pokémon IV% Checker]: https://github.com/KaizNG/Pokemon-IV-Percentage
+[Text Based Story Game]: https://github.com/KaizNG/TextBasedGame
 
-[license-img]: https://img.shields.io/github/license/KaizNG/Pokemon-IV-Percentage
-[license]: https://github.com/KaizNG/Pokemon-IV-Percentage/blob/main/LICENSE
+[license-img]: https://img.shields.io/github/license/KaizNG/TextBasedGame
+[license]: https://github.com/KaizNG/TextBasedGame/blob/main/LICENSE
 
 [stopped]: https://img.shields.io/badge/status-Not%20Updating-red.svg
 [hiatus]: https://img.shields.io/badge/status-Hiatus-orange.svg
 [updating]: https://img.shields.io/badge/status-Updating-009b31.svg
-[version-img]: https://badge.fury.io/gh/KaizNG%2FFoodFinder.svg
-
-[version-img]: https://badge.fury.io/gh/KaizNG%2FFoodFinder.svg
 
 [changelog-img]: https://img.shields.io/badge/changelog-545454.svg
 [changelog]: ./CHANGELOG.md
 
 [python-img]:https://img.shields.io/badge/made%20with-Python-1f425f.svg
 [python]:https://www.python.org/
-
-[Text Based Story Game]: https://github.com/KaizNG/TextBasedGame
