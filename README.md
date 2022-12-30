@@ -6,7 +6,7 @@ This repository is a collection of all the coding I have done, am doing, and wil
 The projects are separated based on what language it is, and further separated more based on the time period it was made in\
 (High School, University, *whatever year it was made in after university*).
 
-[Random Projects]: https://www.github.com/KaizNG/RandomProjects
+[Random Projects]: https://www.github.com/ssenjii/RandomProjects
 
-[license-img]: https://img.shields.io/github/license/KaizNG/RandomProjects
-[license]: https://github.com/KaizNG/RandomProjects/blob/main/LICENSE
+[license-img]: https://img.shields.io/github/license/ssenjii/RandomProjects
+[license]: https://github.com/ssenjii/RandomProjects/blob/main/LICENSE
